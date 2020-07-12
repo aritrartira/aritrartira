@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi
+
 <p align="center">
   <img src="https://github.com/aritrartira/aritrartira/blob/master/me.jpg" width="170" height = "170" align="left" title="hover text">
 </p>
