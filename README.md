@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi
-![me](https://github.com/aritrartira/aritrartira/blob/master/me.jpg?raw=true =100x100)
+<p align="center">
+  <img src="me.jpg" width="100" height = "100" title="me">
+</p>
 
 # About Aritra Chakraborty
 I am a Computer Science and Engineering undergrad (2019-23) at [Jadavpur University Kolkata](http://www.jaduniv.edu.in). I wish to pursue a career in research. Currently, my interests primarily lie in Artificial Intelligence. As of the time of writing, I am studying Machine Learning. The theoretical and more mathematical side of ML has been fascinating and I hope to be a researcher in this field one day.
