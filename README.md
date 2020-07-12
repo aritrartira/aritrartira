@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi
 <p align="center">
-  <img src="me.jpg" title="hover text">
-  <img src="me.jpg" width="100" height = "100" alt="accessibility text">
+  <img src="https://github.com/aritrartira/aritrartira/blob/master/me.jpg" width="100" height = "100" title="hover text">
 </p>
 
 # About Aritra Chakraborty
