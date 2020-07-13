@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/aritrartira/aritrartira/blob/master/me.jpg" width="170" height = "170" align="left" title="hover text">
+  <img src="https://github.com/aritrartira/aritrartira/blob/master/me.jpg" width="170" height = "170" align="left" title="This is me!">
 </p>
 
 # About Aritra Chakraborty
