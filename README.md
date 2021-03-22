@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 </p>
 
 # About Aritra Chakraborty
-I am a Computer Science and Engineering undergrad (2019-23) at [Jadavpur University Kolkata](http://www.jaduniv.edu.in). I wish to pursue a career in research. Currently, my interests primarily lie in Artificial Intelligence. As of the time of writing, I am studying Machine Learning. The theoretical and more mathematical side of ML has been fascinating and I hope to be a researcher in this field one day.
+I am a Computer Science and Engineering undergrad (2019-23) at [Jadavpur University Kolkata](http://www.jaduniv.edu.in). I wish to pursue a career in research.
+Football Analytics is very fascinating to me and I'm also learning about Machine Learning.
 
 
 
 
 # More on Aritra
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Machine Learning and Football Analytics.
 - 👯 I’m looking to collaborate on anything fun, innovative and original.
-- 🤔 I’m looking for help with studying Machine Learning.
 - 📫 How to reach me: [abelinha007cr@gmail.com](abelinha007cr@gmail.com)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love Western Classical Music
