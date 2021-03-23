@@ -30,3 +30,10 @@ Football Analytics is very fascinating to me and I'm also learning about Machine
 - 📫 How to reach me: [abelinha007cr@gmail.com](abelinha007cr@gmail.com)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love Western Classical Music
+
+
+<a href="https://github.com/aritrartira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrartira&theme=dracula&langs_count=5" />
+</a>
+
+[![Aritra's github stats](https://github-readme-stats.vercel.app/api?username=aritrartira&theme=dracula&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/aritrartira)
